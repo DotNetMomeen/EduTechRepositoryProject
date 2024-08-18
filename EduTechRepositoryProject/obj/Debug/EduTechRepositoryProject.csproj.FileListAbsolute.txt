@@ -1,0 +1,7 @@
+D:\. Net Programe\C# .Net\Class\Module_03_C#\Zero Extra\EduTech Repository Project\EduTechRepositorySolution\EduTechRepositoryProject\bin\Debug\EduTechRepositoryProject.exe.config
+D:\. Net Programe\C# .Net\Class\Module_03_C#\Zero Extra\EduTech Repository Project\EduTechRepositorySolution\EduTechRepositoryProject\bin\Debug\EduTechRepositoryProject.exe
+D:\. Net Programe\C# .Net\Class\Module_03_C#\Zero Extra\EduTech Repository Project\EduTechRepositorySolution\EduTechRepositoryProject\bin\Debug\EduTechRepositoryProject.pdb
+D:\. Net Programe\C# .Net\Class\Module_03_C#\Zero Extra\EduTech Repository Project\EduTechRepositorySolution\EduTechRepositoryProject\obj\Debug\EduTechRepositoryProject.csproj.AssemblyReference.cache
+D:\. Net Programe\C# .Net\Class\Module_03_C#\Zero Extra\EduTech Repository Project\EduTechRepositorySolution\EduTechRepositoryProject\obj\Debug\EduTechRepositoryProject.csproj.CoreCompileInputs.cache
+D:\. Net Programe\C# .Net\Class\Module_03_C#\Zero Extra\EduTech Repository Project\EduTechRepositorySolution\EduTechRepositoryProject\obj\Debug\EduTechRepositoryProject.exe
+D:\. Net Programe\C# .Net\Class\Module_03_C#\Zero Extra\EduTech Repository Project\EduTechRepositorySolution\EduTechRepositoryProject\obj\Debug\EduTechRepositoryProject.pdb
